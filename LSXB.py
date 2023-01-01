@@ -16,8 +16,8 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    import fuck_sxb.cpython-311.so
+    import fuck_sxb
 
 elif bit == '32bit':
 
-    import fuck_sxb.cpython-311.so
+    import fuck_sxb
